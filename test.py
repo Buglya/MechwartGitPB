@@ -1,5 +1,7 @@
 import random
 
+"""ligma """
+
 def get_random_num(a: int,b: int):
     try:
         print(random.randint(a,b))
